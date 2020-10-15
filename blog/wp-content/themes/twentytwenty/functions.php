@@ -1,4 +1,6 @@
 <?php
+/* update_option( 'siteurl', 'http://your.site.url:port/yourblog');
+update_option( 'home', 'http://your.site.url:port/yourblog'); */
 /**
  * Twenty Twenty functions and definitions
  *
