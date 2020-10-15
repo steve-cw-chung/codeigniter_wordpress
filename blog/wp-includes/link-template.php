@@ -3290,7 +3290,6 @@ function get_site_url( $blog_id = null, $path = '', $scheme = null ) {
 	 *                             'login_post', 'admin', 'relative' or null.
 	 * @param int|null    $blog_id Site ID, or null for the current site.
 	 */
-	die(var_dump($url));
 	return apply_filters( 'site_url', $url, $path, $scheme, $blog_id );
 }
 
